@@ -6,7 +6,7 @@
   </a>
 </h1>
       
-<p align='center'>Hello! I am AJ Founder of Sun Rise community and helped paved way for FiveM community.</p>
+<p align='center'>Hello! I am Nima, Fullstack developer based in Toronto, Ontario.</p>
 
 
 <!--- About You --->   
