@@ -14,6 +14,20 @@
 
 <a target="_blank">
    <img align="right" height="250" width= "280px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</a>
+
+- 🔭 I’m currently working on a massive FiveM update, stay tuned!
+  
+- 🌱 I’m currently learning Javascript Frameworkds
+  
+- 👯 I’m looking to collaborate on FiveM Projects
+  
+- 💬 Ask me about Lua, FiveM, and much more! I am always happy to help
+  
+- ⚡ Fun fact: Top FiveM Developer
+
+<br/>
+
 
 
  <!--- Skills --->        
