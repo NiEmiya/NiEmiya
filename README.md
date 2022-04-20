@@ -1,6 +1,6 @@
 <!--- Header --->   
 <h1 align="center">
-  𝙒𝙚𝙡𝙘𝙤𝙢𝙚 &lt;𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚎𝚛𝚜/&gt; !
+  𝙒𝙚𝙡𝙘𝙤𝙢𝙚
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
